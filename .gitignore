@@ -1,0 +1,6 @@
+.env
+.vscode
+.flaskenv
+config.yml
+mongonenv
+__init__copy.py
