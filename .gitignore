@@ -1,6 +1,7 @@
 .env
 .vscode
 .flaskenv
+scratchpad.md
 config.yml
 mongonenv
 __init__copy.py
